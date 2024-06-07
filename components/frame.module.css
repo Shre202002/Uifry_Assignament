@@ -1,0 +1,448 @@
+.frameIcon {
+  position: absolute;
+  top: 453px;
+  left: 20px;
+  width: 246px;
+  height: 48px;
+  overflow: hidden;
+  z-index: 1;
+}
+.appNameIcon,
+.footerLinksIcon {
+  object-fit: contain;
+  position: absolute;
+}
+.footerLinksIcon {
+  top: calc(50% - 382.5px);
+  left: calc(50% - 732px);
+  width: 67.9px;
+  height: 67.9px;
+}
+.appNameIcon {
+  width: 100%;
+  height: 100%;
+  left: 2px;
+  top: 16px;
+  transform: scale(1.235);
+}
+.wrapperAppName {
+  position: absolute;
+  top: 0;
+  left: 151.2px;
+  width: 457.2px;
+  height: 732.1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.appNameIcon1,
+.wrapperAppName1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.appNameIcon1 {
+  object-fit: contain;
+  left: 20px;
+  top: 16px;
+  transform: scale(1.065);
+}
+.wrapperAppName1 {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.uifryPremium {
+  position: relative;
+  line-height: 19px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 86px;
+}
+.bottomStarChild,
+.bottomStarItem {
+  position: absolute;
+  margin: 0 !important;
+  object-fit: contain;
+}
+.bottomStarChild {
+  width: 67.9px;
+  height: 67.9px;
+  right: 137.1px;
+  bottom: 136.1px;
+}
+.bottomStarItem {
+  width: 65.6px;
+  height: 65.6px;
+  bottom: 84.4px;
+  left: 65px;
+}
+.bottomStar {
+  position: absolute;
+  top: 72px;
+  left: 59.2px;
+  border-radius: var(--br-5xs);
+  width: 442px;
+  height: 645px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-18xl) var(--padding-xl) var(--padding-17xl-7)
+    var(--padding-117xl);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.appTitle,
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 701px;
+  width: 623.5px;
+  height: 732.1px;
+}
+.frameChild {
+  top: 645.3px;
+  left: 333px;
+  border-radius: var(--br-5xs);
+  width: 256px;
+  height: 71px;
+}
+.descriptionIcon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 14px;
+  transform: scale(1.805);
+}
+.wrapperDescription {
+  position: absolute;
+  top: 69px;
+  left: 220px;
+  width: 317px;
+  height: 205px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.makeTheBest {
+  margin: 0;
+  position: absolute;
+  top: 99px;
+  left: 112px;
+  font-size: var(--font-size-45xl);
+  line-height: 64px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 618px;
+  z-index: 2;
+}
+.benefits,
+.cumEtConvallis {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cumEtConvallis {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  padding-right: 0;
+  z-index: 2;
+}
+.benefits {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-16xl);
+}
+.frameItem {
+  height: 60px;
+  width: 180px;
+}
+.secondaryButtonChild {
+  width: 29px;
+  height: 29px;
+  position: relative;
+}
+.secondaryButton {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-sm) 0 0;
+}
+.watchVideo {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.frameParent,
+.primaryButton,
+.watchVideoButton {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.watchVideoButton {
+  width: 111px;
+  flex-direction: column;
+  padding: var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+}
+.frameParent,
+.primaryButton {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frameParent {
+  gap: var(--gap-21xl);
+}
+.primaryButton {
+  padding: 0 var(--padding-14xl);
+  box-sizing: border-box;
+}
+.benefitCardChild {
+  width: 297.5px;
+  height: 302.6px;
+  right: -0.5px;
+  bottom: 1.6px;
+  border-radius: var(--br-5xs);
+  object-fit: contain;
+  z-index: 3;
+}
+.benefitCardChild,
+.benefitCardItem,
+.makeTheBest1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.makeTheBest1 {
+  width: 196px;
+  right: 28.2px;
+  bottom: 68.83px;
+  line-height: 18.3px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(-45.7deg);
+  transform-origin: 0 0;
+  z-index: 4;
+}
+.benefitCardItem {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 5;
+}
+.benefitCard {
+  align-self: stretch;
+  height: 313.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.buttonContentChild {
+  height: 57.1px;
+  width: 56.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 16.9px;
+  right: 143.9px;
+  object-fit: contain;
+  z-index: 1;
+}
+.buttonContentItem {
+  height: 71.2px;
+  width: 1.3px;
+  position: relative;
+  background-color: var(--color-black);
+  z-index: 2;
+}
+.trialRatingChild {
+  width: 41.8px;
+  height: 41.8px;
+  position: relative;
+  z-index: 1;
+}
+.trialRating {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 0 0;
+}
+.freeTrial,
+.premiumStar {
+  position: relative;
+  z-index: 1;
+}
+.premiumStar {
+  height: 71.2px;
+  width: 1.3px;
+  background-color: var(--color-black);
+}
+.freeTrial {
+  text-decoration: none;
+  align-self: stretch;
+  line-height: 19px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: inherit;
+}
+.trialLabel {
+  width: 49px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-17xl) 0 0;
+  box-sizing: border-box;
+}
+.a {
+  height: 107px;
+  width: 89px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -41.78px;
+  left: 0;
+  font-size: var(--font-size-87xl-4);
+  line-height: 106.38px;
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+  transform: rotate(-28deg);
+  transform-origin: 0 0;
+}
+.buttonContent,
+.freeTrialButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.buttonContent {
+  flex: 1;
+  overflow: hidden;
+  padding: var(--padding-base-7) var(--padding-smi) var(--padding-xl-1);
+  position: relative;
+  gap: var(--gap-base-7);
+  z-index: 6;
+}
+.freeTrialButton {
+  width: 452.9px;
+  padding: 0 var(--padding-13xl);
+  margin-top: -92.4px;
+  font-size: var(--font-size-2xs-5);
+}
+.buttons,
+.callToAction,
+.financialBenefits {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.financialBenefits {
+  align-self: stretch;
+  align-items: flex-end;
+  font-size: var(--font-size-xs-8);
+}
+.buttons,
+.callToAction {
+  align-items: flex-start;
+}
+.buttons {
+  width: 525.3px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-smi);
+  color: var(--color-black);
+}
+.callToAction {
+  position: absolute;
+  top: 251px;
+  left: 76.6px;
+  width: 673.4px;
+  gap: var(--gap-9xl);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.frame {
+  margin-right: -9px;
+  margin-bottom: 36px;
+  width: 1368px;
+  height: 765px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-xs-8);
+  color: var(--color-black);
+  font-family: var(--font-clash-display);
+}
+@media screen and (max-width: 1050px) {
+  .makeTheBest {
+    font-size: var(--font-size-32xl);
+    line-height: 51px;
+  }
+  .a {
+    font-size: var(--font-size-34xl);
+    line-height: 64px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frameParent {
+    flex-wrap: wrap;
+  }
+  .frame {
+    height: auto;
+    min-height: 765;
+  }
+}
+@media screen and (max-width: 450px) {
+  .makeTheBest {
+    font-size: var(--font-size-19xl);
+    line-height: 38px;
+  }
+  .buttonContentItem,
+  .premiumStar {
+    width: 100%;
+    height: 1.3px;
+  }
+  .a {
+    font-size: var(--font-size-13xl);
+    line-height: 43px;
+  }
+  .buttonContent {
+    flex-wrap: wrap;
+  }
+}

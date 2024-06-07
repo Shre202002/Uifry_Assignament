@@ -1,0 +1,716 @@
+.features,
+.uifryPremium {
+  position: absolute;
+  left: 684px;
+}
+.uifryPremium {
+  margin: 0;
+  top: 160px;
+  font-size: var(--font-size-29xl);
+  line-height: 48px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+}
+.features {
+  top: 128px;
+  letter-spacing: 0.16em;
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-tomato);
+  display: inline-block;
+  min-width: 116px;
+}
+.budgetingIntervals,
+.cumEtConvallis {
+  position: absolute;
+  top: 240px;
+  left: 716px;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.cumEtConvallis {
+  margin: 0;
+  top: 280px;
+  left: 684px;
+  font-weight: 500;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 638px;
+}
+.budgetingIntervals1 {
+  top: 368px;
+  left: 716px;
+  font-weight: 600;
+}
+.budgetingIntervals1,
+.budgetingIntervals2,
+.cumEtConvallis1,
+.cumEtConvallis2 {
+  position: absolute;
+  line-height: 28px;
+  text-transform: capitalize;
+}
+.cumEtConvallis1 {
+  margin: 0;
+  top: 408px;
+  left: 684px;
+  font-weight: 500;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 638px;
+}
+.budgetingIntervals2,
+.cumEtConvallis2 {
+  top: 496px;
+  left: 716px;
+  font-weight: 600;
+}
+.cumEtConvallis2 {
+  margin: 0;
+  top: 536px;
+  left: 684px;
+  font-weight: 500;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 638px;
+}
+.cube02Icon,
+.cube04Icon,
+.star05Icon {
+  position: absolute;
+  top: 242px;
+  left: 684px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.cube02Icon,
+.cube04Icon {
+  top: 370px;
+}
+.cube04Icon {
+  top: 498px;
+}
+.featureIcons,
+.featureIconsChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.featureIconsChild {
+  width: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.featureIcons {
+  bottom: 0;
+  width: 719.5px;
+}
+.wrapperGroup35897Child {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: -52px;
+  top: 0;
+  transform: scale(1.869);
+}
+.wrapperGroup35897 {
+  position: absolute;
+  top: 180.7px;
+  left: 1225px;
+  width: 327px;
+  height: 237.3px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frameIcon {
+  position: absolute;
+  top: 128.7px;
+  left: 0;
+  width: 1388px;
+  height: 48px;
+  overflow: hidden;
+  z-index: 2;
+}
+.featureList {
+  align-self: stretch;
+  height: 719.5px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: var(--color-black);
+}
+.advatnages,
+.arcuAtDictum {
+  line-height: 28px;
+  font-weight: 500;
+}
+.arcuAtDictum {
+  margin: 0 !important;
+  width: 535px;
+  position: absolute;
+  right: -45px;
+  bottom: 0.5px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.advatnages {
+  position: relative;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.whyChooseUifry {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-29xl);
+  line-height: 48px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-black);
+}
+.advatnagesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.notificationChild {
+  height: 48px;
+  width: 48px;
+  position: relative;
+}
+.cleverNotifications {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+}
+.cleverNotificationsWrapper,
+.notification {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cleverNotificationsWrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  min-width: 177px;
+}
+.notification {
+  width: 336px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-mini);
+  max-width: 100%;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+}
+.advantageHeading,
+.advantageList,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frameParent {
+  width: 490px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-13xl);
+}
+.advantageHeading,
+.advantageList {
+  flex-direction: row;
+}
+.advantageList {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-144xl-5);
+  color: var(--color-tomato);
+}
+.advantageHeading {
+  width: 619px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  position: relative;
+}
+.arcuAtDictum1,
+.spacingIcon {
+  margin: 0 !important;
+  position: absolute;
+}
+.spacingIcon {
+  width: 100%;
+  height: 64px;
+  top: 717.7px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.arcuAtDictum1 {
+  height: 140px;
+  width: 562px;
+  right: -548.5px;
+  bottom: 268.5px;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+}
+.frameChild {
+  height: 48px;
+  width: 48px;
+  top: 254px;
+  right: -10.5px;
+}
+.frameChild,
+.frameItem,
+.userImageChild {
+  position: absolute;
+  margin: 0 !important;
+}
+.frameItem {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 4;
+}
+.userImageChild {
+  height: 470.8px;
+  width: 484.4px;
+  bottom: -255.5px;
+  left: -113px;
+  object-fit: contain;
+}
+.groupIcon,
+.tm {
+  position: relative;
+  z-index: 1;
+}
+.groupIcon {
+  height: 16.7px;
+  width: 50.7px;
+  object-fit: cover;
+}
+.tm {
+  font-weight: 800;
+  display: inline-block;
+  min-width: 4.3px;
+}
+.brandName,
+.cardType {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.brandName {
+  width: 4.4px;
+  flex-direction: column;
+  padding: var(--padding-8xs-9) 0 0;
+  box-sizing: border-box;
+}
+.cardType {
+  flex-direction: row;
+  gap: var(--gap-lg-8);
+}
+.creditCardvisaTypewhite {
+  width: 44.3px;
+  height: 14.6px;
+  position: relative;
+  z-index: 1;
+}
+.cardProvider {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-12xs);
+}
+.cardDetails {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.validThru {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 5px;
+  display: inline-block;
+  min-width: 30px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 2;
+}
+.validThruLabel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-3) 0 0;
+}
+.creditCardDate {
+  position: relative;
+  font-size: var(--font-size-2xs-4);
+  letter-spacing: 0.08em;
+  display: inline-block;
+  min-width: 32px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  z-index: 1;
+  margin-left: -11.9px;
+}
+.expiryDate {
+  flex-direction: row;
+}
+.callToAction,
+.expiryDate,
+.validity {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.validity {
+  flex-direction: row;
+  padding: 0 var(--padding-17xl);
+  font-size: var(--font-size-8xs-8);
+  font-family: var(--font-dm-sans);
+}
+.callToAction {
+  flex: 1;
+  backdrop-filter: blur(27.89px);
+  border-radius: var(--br-base);
+  background-color: var(--color-black);
+  flex-direction: column;
+  padding: var(--padding-base-1) var(--padding-mid) var(--padding-mini-5);
+  gap: var(--gap-81xl);
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.creditCardSpacer {
+  position: absolute;
+  margin: 0 !important;
+  right: -171.2px;
+  bottom: 40.2px;
+  font-size: var(--font-size-smi-7);
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  font-family: var(--font-dm-sans);
+}
+.frame,
+.userImage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame {
+  flex: 1;
+  padding: 0;
+  z-index: 5;
+}
+.userImage {
+  width: 261.1px;
+  font-size: var(--font-size-11xs);
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.cardElementsIcon,
+.cardElementsIcon1,
+.cardElementsIcon2,
+.cardElementsIcon3 {
+  height: 48px;
+  position: absolute;
+  margin: 0 !important;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.cardElementsIcon {
+  width: 218px;
+  top: 8.7px;
+  right: -81.5px;
+}
+.cardElementsIcon1,
+.cardElementsIcon2,
+.cardElementsIcon3 {
+  width: 1384px;
+  right: -664.5px;
+  bottom: 203.8px;
+}
+.cardElementsIcon2,
+.cardElementsIcon3 {
+  height: 64px;
+  width: 206px;
+  right: -75.5px;
+  bottom: -51.2px;
+}
+.cardElementsIcon3 {
+  width: 920px;
+  right: -432.5px;
+  bottom: 14.8px;
+}
+.arcuAtDictumSapienMollisParent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-205xl-7) var(--padding-xl) var(--padding-206xl)
+    var(--padding-61xl);
+  box-sizing: border-box;
+  position: relative;
+  min-width: 467px;
+  min-height: 720px;
+  max-width: 100%;
+}
+.progressCircles,
+.progressCircles1 {
+  position: absolute;
+  top: 79.4px;
+  left: 0;
+  filter: blur(103.15px);
+  border-radius: 50%;
+  background-color: var(--color-khaki);
+  width: 299.1px;
+  height: 157.8px;
+}
+.progressCircles1 {
+  top: 0;
+  left: 34px;
+  background-color: var(--color-tomato);
+  width: 293px;
+  z-index: 1;
+}
+.progressIndicator {
+  position: absolute;
+  top: 324.2px;
+  left: 121px;
+  width: 327px;
+  height: 237.2px;
+}
+.badgeContainerChild {
+  position: absolute;
+  top: calc(50% - 359.75px);
+  left: calc(50% - 359.75px);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.arcuAtDictumSapienMollisV {
+  height: 40.6px;
+  width: 40.6px;
+  position: relative;
+  border-radius: 12.29px;
+  object-fit: cover;
+}
+.fromAdom {
+  position: relative;
+  letter-spacing: 0.31px;
+  line-height: 9px;
+  display: inline-block;
+  min-width: 49px;
+}
+.fromName {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xs-2);
+}
+.bannerUserName {
+  position: relative;
+  letter-spacing: 0.61px;
+  line-height: 15px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 62px;
+  white-space: nowrap;
+}
+.deliveryTime {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-xl-1);
+  font-size: var(--font-size-mini-8);
+  color: var(--color-gray-400);
+}
+.onHold {
+  position: absolute;
+  top: calc(50% - 18.55px);
+  left: calc(50% - 12.75px);
+  box-shadow: 4px 4px 40px rgba(0, 0, 0, 0.1);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-2xs-5) var(--padding-3xs) var(--padding-2xs-4);
+  gap: var(--gap-sm-3);
+  z-index: 3;
+}
+.badgeContainer {
+  height: 719.5px;
+  width: 719.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: -639.5px;
+  right: -359.5px;
+  z-index: 2;
+}
+.fullyCustomizable {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 28px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+}
+.customizationFeature {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-245xl) 0 0;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-clash-display);
+}
+.customizationFeature,
+.s2Parent1,
+.statusBadge,
+.testimonialCard,
+.testimonials {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.statusBadge {
+  width: 262px;
+  flex-direction: row;
+  position: relative;
+  min-width: 262px;
+  font-size: var(--font-size-4xs-6);
+  color: var(--color-gray-100);
+  font-family: var(--font-nunito-sans);
+}
+.s2Parent1,
+.testimonialCard,
+.testimonials {
+  max-width: 100%;
+}
+.testimonialCard {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-6xl-5);
+}
+.s2Parent1,
+.testimonials {
+  box-sizing: border-box;
+}
+.testimonials {
+  width: 1011px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+}
+.s2Parent1 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xs-5);
+  position: relative;
+  gap: var(--gap-99xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+  font-family: var(--font-clash-display);
+}
+@media screen and (max-width: 1050px) {
+  .uifryPremium,
+  .whyChooseUifry {
+    font-size: var(--font-size-19xl);
+    line-height: 38px;
+  }
+  .statusBadge {
+    flex: 1;
+  }
+  .testimonialCard {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frameParent {
+    gap: var(--gap-base);
+  }
+  .arcuAtDictumSapienMollisParent {
+    padding-top: var(--padding-127xl);
+    padding-bottom: var(--padding-127xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .s2Parent1 {
+    gap: var(--gap-40xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .uifryPremium,
+  .whyChooseUifry {
+    font-size: var(--font-size-10xl);
+    line-height: 29px;
+  }
+  .cleverNotifications {
+    font-size: var(--font-size-3xl);
+    line-height: 22px;
+  }
+  .callToAction {
+    gap: var(--gap-31xl);
+  }
+  .arcuAtDictumSapienMollisParent {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .fullyCustomizable {
+    font-size: var(--font-size-3xl);
+    line-height: 22px;
+  }
+  .s2Parent1 {
+    gap: var(--gap-10xl);
+  }
+}
